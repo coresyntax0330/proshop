@@ -133,8 +133,7 @@ jane@email.com (Customer)
 
 # Bug Fixes, corrections and code FAQ
 
-The code here in the main branch has been updated since the course was published to fix bugs found by students of the course and answer common questions, if you are looking to compare your code to that from the course lessons then
-please refer to the [originalcoursecode](https://github.com/coresyntax0330/proshop/tree/originalCourseCode) branch of this repository.
+The code here in the main branch has been updated since the course was published to fix bugs found by students of the course and answer common questions, if you are looking to compare your code to that from the course lessons
 
 There are detailed notes in the comments that will hopefully help you understand
 and adopt the changes and corrections.
